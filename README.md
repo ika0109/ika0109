@@ -5,7 +5,7 @@
 
 Backend & Full‑Stack (MERN) Developer — Node.js • Express • MongoDB • React • TypeScript
 
-Outside of code and Figma, you'll find me watching anime,playin valorant  or drawing. I also enjoy learning languages and improving my self.
+Outside of code and Figma, you'll find me watching anime,playing valorant  or drawing. I also enjoy learning languages and improving my self.
 
 Fun Facts:
 > I don't like ice-americano.
