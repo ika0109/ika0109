@@ -9,4 +9,5 @@ Outside of code and Figma, you'll find me watching anime,playin valorant  or dra
 
 Fun Facts:
 > I don't like ice-americano.
+
 > The Wind Rises is my favorite anime.
